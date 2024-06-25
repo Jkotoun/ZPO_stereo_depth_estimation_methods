@@ -1,3 +1,11 @@
+# Depth estimation
+This project compares performance of several depth estimation methods - Block Matching, Semi-Global Block Matching, HitNet (stereo depth estimation) and Depth Anything (monocular depth estimation). The results can be found in ZPO.pdf file.
+
+# Team members
+- Josef Kotoun
+- Jiří Vlasák
+- Vít Tlustoš
+
 # Installation
 Install requirements with `pip install -r requirements.txt`
 
