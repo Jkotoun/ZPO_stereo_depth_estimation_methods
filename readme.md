@@ -1,5 +1,10 @@
 # Depth estimation
-This project compares performance of several depth estimation methods - Block Matching, Semi-Global Block Matching, HitNet (stereo depth estimation) and Depth Anything (monocular depth estimation). The results can be found in ZPO.pdf file.
+This project compares performance of several depth estimation methods:
+- Traditional stereo depth estimation methods - Block Matching (implemented from scratch) and Semi-Global Block Matching (opencv implementation)
+- HitNet Neural Network for stereo depth estimation
+- Depth Anything Neural Network for monocular depth estimation
+  
+The results can be found in ZPO.pdf file.
 
 # Team members
 - Josef Kotoun
